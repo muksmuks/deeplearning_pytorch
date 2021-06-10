@@ -6,7 +6,7 @@
 ## Table of Contents
 
 - [Model](#model)
-- [Gradient Descent](https://github.com/muksmuks/deeplearning_pytorch/gradient_descent/blob/main/README.md)
+- [Gradient Descent](https://github.com/muksmuks/deeplearning_pytorch/blob/main/gradient_descent/README.md)
 
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
