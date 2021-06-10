@@ -5,15 +5,9 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Model] (#model)
+- [Model](#model)
 - [Gradient Descent](#introduction)
-- [Features](#features)
-- [Feedback](#feedback)
-- [Contributors](#contributors)
-- [Build Process](#build-process)
-- [Backers](#backers-)
-- [Sponsors](#sponsors-)
-- [Acknowledgments](#acknowledgments)
+
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
