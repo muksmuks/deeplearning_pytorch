@@ -12,7 +12,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-## Model
+## model
 
 Model is a piece of software with a specific mission. In most cases the mission is 
 - to predict unseen data correctly (Cat should be identified as Cat and not a Macau)
