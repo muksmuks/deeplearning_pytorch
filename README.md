@@ -16,4 +16,4 @@
 
 Model is a piece of software with a specific mission. In most cases the mission is 
 - to predict unseen data correctly (Cat should be identified as Cat and not a Macau)
-- to achieve, it has to reduce the mistakes. The mistakes are mathematically defined as Loss Function
+- to achieve above, it has to reduce the mistakes. The mistakes are mathematically defined as Loss Function
