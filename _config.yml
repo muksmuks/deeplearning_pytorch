@@ -14,7 +14,7 @@ collections:
     permalink: /project/:path/
   posts:
     output: true
-    permalink: /deeplearning_pytorch/posts/pytorch/:title.html
+    permalink: /deeplearning_pytorch/posts/:title.html
 
 social:
     - icon: fa-linkedin
@@ -37,7 +37,7 @@ url: "https://github.com/muksmuks"
 baseurl: ""
 paginate: 20
 per_page: 20
-paginate_path: "/deeplearning_pytorch/page:num/"
+paginate_path: "/page:num/"
 markdown: kramdown
 gems:
   - jekyll-paginate
