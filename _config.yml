@@ -33,7 +33,7 @@ urls:
       url: /projects/
 
 
-url: "https://muksmuks.github.io/deeplearning_pytorch"
+url: "https://muksmuks.github.io"
 baseurl: "https://muksmuks.github.io"
 paginate: 20
 per_page: 20
