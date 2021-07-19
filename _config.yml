@@ -1,4 +1,4 @@
-title: Pytorch
+title: PyTorch
 description: Data Science | AI | Insurance
 author: Mukesh K
 github: https://github.com/muksmuks
@@ -14,7 +14,7 @@ collections:
     permalink: /project/:path/
   posts:
     output: true
-    permalink: /deeplearning_pytorch/posts/:title.html
+    permalink: /deeplearning_pytorch/posts/pytorch/:title.html
 
 social:
     - icon: fa-linkedin
