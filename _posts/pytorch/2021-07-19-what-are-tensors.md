@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What are tensors?"
-date:   2020-08-01 20:02:00 +0700
+date:   2021-07-19 20:02:00 +0700
 categories: [python, django, security]
 ---
 
