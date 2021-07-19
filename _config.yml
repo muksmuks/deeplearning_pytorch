@@ -14,7 +14,7 @@ collections:
     permalink: /project/:path/
   posts:
     output: true
-    permalink: /deeplearning_pytorch/posts/:title.html
+    permalink: /posts/:title.html
 
 social:
     - icon: fa-linkedin
@@ -33,7 +33,7 @@ urls:
       url: /projects/
 
 
-url: "https://muksmuks.github.io/deeplearning_pytorch"
+url: "https://muksmuks.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
