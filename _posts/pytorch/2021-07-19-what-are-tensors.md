@@ -6,10 +6,9 @@ categories: [python, pytorch]
 ---
 
 
-I am working on a django based web app that takes python file as input which contains some function,
-then in backend i have some lists that are passed as parameters through the user's function,
-which will generate a single value output.
-The result generated will be used for some further computation.
+
+<h3>What is PyTorch</h3>
+<h4>PyTorch is a deep learning framework and a scientific computing package.The scientific computing aspect of PyTorch is primarily a result PyTorch's tensor library and associated tensor operations.</h4>
 
 
 Here is how the function inside the user's file look like :
