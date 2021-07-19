@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How can i accept and run user's code securely on my web app?"
+title:  "What are tensors?"
 date:   2020-08-01 20:02:00 +0700
 categories: [python, django, security]
 ---
