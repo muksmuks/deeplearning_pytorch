@@ -9,9 +9,7 @@ layout: default
   <div>
     <ol class="posts">
       {% for post in site.posts %}
-        {% if post.path contains 'pytorch' %}
           <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endif %}
       {% endfor %}  
     </ol>
   </div>
