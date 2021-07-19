@@ -5,12 +5,6 @@ date:   2021-07-19 20:02:00 +0530
 categories: [python, pytorch]
 ---
 
-{% include toc.md %}
-
-
-### What is PyTorch
-####### PyTorch is a deep learning framework and a scientific computing package.The scientific computing aspect of PyTorch is primarily a result PyTorch's tensor library and associated tensor operations.
-
 
 Here is how the function inside the user's file look like :
 
