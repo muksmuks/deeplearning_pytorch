@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "What is PyTorch"
+title:  "What are tensors"
 date:   2021-07-18 20:02:00 +0530
-categories: [deeplearning, pytorch]
+categories: [deeplearning]
 ---
 
 
