@@ -10,6 +10,7 @@ layout: default
     <ol class="posts">
       {% for post in site.posts reversed %}
         {% if post.path contains 'pytorch' %}
+            <h4>{{ post.url }}</h4>
             <li><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></li>
         {% endif %}
       {% endfor %}  
