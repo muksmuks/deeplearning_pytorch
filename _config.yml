@@ -34,7 +34,7 @@ urls:
 
 
 url: "https://muksmuks.github.io"
-baseurl: "https://muksmuks.github.io"
+baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
