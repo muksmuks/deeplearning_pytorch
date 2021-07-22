@@ -32,6 +32,9 @@ urls:
     - text: My Projects
       url: /projects/
 
+
+url: "https://muksmuks.github.io"
+baseurl: "https://muksmuks.github.io/deeplearning_pytorch"
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
