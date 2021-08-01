@@ -33,7 +33,7 @@ urls:
       url: /projects/
 
 
-baseurl: "https://muksmuks.github.io/deeplearning_pytorch"
+baseurl: "https://muksmuks.github.io"
 
 
 compress_html:
