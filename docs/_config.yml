@@ -34,12 +34,6 @@ urls:
 
 
 baseurl: "https://muksmuks.github.io/deeplearning_pytorch"
-paginate: 20
-per_page: 20
-paginate_path: "/page:num/"
-markdown: kramdown
-gems:
-  - jekyll-paginate
 
 
 compress_html:
