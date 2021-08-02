@@ -9,7 +9,9 @@ layout: default
   <div>
     <ol class="posts">
       {% for post in site.posts reversed %}
+        {% if post.path contains 'datascience' %}
             <li><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></li>
+        {% endif %}
       {% endfor %}  
     </ol>
   </div>
