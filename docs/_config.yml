@@ -32,8 +32,6 @@ urls:
     - text: My Projects
       url: /projects/
 
-url: "https://muksmuks.github.io/deeplearning_pytorch"
-
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
