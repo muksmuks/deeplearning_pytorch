@@ -33,9 +33,6 @@ urls:
       url: /projects/
 
 
-baseurl: "https://muksmuks.github.io"
-
-
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
